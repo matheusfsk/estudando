@@ -1,2 +1,0 @@
-# estudando
-Meu primeiro repositório 
